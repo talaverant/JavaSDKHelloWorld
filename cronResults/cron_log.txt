@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home:/usr/bin:/bin
+HOME=/var/root JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home LOGNAME=root PATH=/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home:/usr/bin:/bin PWD=/private/var/root SHELL=/bin/sh SHLVL=2 USER=root _=/usr/bin/env
+Starting
+objc[60714]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/bin/java (0x107d724c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x108e814e0). One of the two will be used. Which one is undefined.
